@@ -22,11 +22,13 @@ By completing this term project, you will:
 
 
 ## Module Outline
-1. Short Assignment
+[Guide for Instructors](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/logistics/Instructor%E2%80%99s%20Guide.pdf)
+
+1. [Short Assignment](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/components/short%20assignment/short_assignment_student_instructions.pdf)
     - Three questions introduce the student to ODEs in Matlab.
     - Students develop code to estimate a solution to an ODE with Euler’s method. Students then plot the solution for different coefficient values and plot the estimate against the analytical solution.
     - Assignment questions ask students to compare the effects of changing variables in the ODE and compare the estimated solution to the analytical solution.
-2. Long Assignment
+2. [Long Assignment](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/components/long%20assignment/Long%20Assignment%20(Glucose-Insulin%20through%20Diff%20Equations).pdf) ([Student facing rubric](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/components/long%20assignment/Student%20Facing%20LA3%20Rubric.pdf))
     - Students Model the Glucose Insulin System in Matlab with Euler’s Method and explore the model by optimizing one parameter for a given set of data using the least-squares method.
     - Students comment on an initial plot and calculate if the initial parameters are within normal limits.
     - Students write code to perform an Euler’s method estimate of the model ODEs and then use the least-squares method to optimize one parameter of the model for a provided set of data.
