@@ -10,7 +10,7 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 
 Introduction to Scientific Computing (ENGS 20) is course that introduces students to programming in C++ and MATLAB and the foundations of scientific computing.  USING MATLAB, this module has students learning to use numerical solvers of ODE and systems of ODE to address questions about a model of the relationship between glucose and insulin in humans. Student use published data to fit parameters of a model and make predictions with the numerical solutions.  The module covers data science areas of analyzing data, visualizing data, and drawing conclusions.
 
-![Medium length module using MATLAB and covering analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/21X_ENGS20/blob/8d3abfd9c214e7ba097b0e1eca8a253e00ce7a64/ENGS20_Badge.png))
+![Medium length module using MATLAB and covering analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/21X_ENGS20/blob/8d3abfd9c214e7ba097b0e1eca8a253e00ce7a64/ENGS20_Badge.png)
 
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/X21_ENGS20/commits/main/).
 ### Folder Structure
