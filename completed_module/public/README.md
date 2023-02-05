@@ -36,12 +36,14 @@ By completing this term project, you will:
 
 ## Implementation Calendar
 
+Typically the short assignment is due after three days and the long assignment is due after a week.
+
 | Item                            | Schedule                                            |
 |---|---|
 | MATLAB publishing tutorial      | Earlier in term                                     |
 | Release Short Assignment (SA)   | At least one week before release of long assignment |
 | Release Long Assignment  (LA)   | Due date of Short Assignment                        |
-|                                 | (Beginning of second to last week of class)         |
-| Return feedback on SA           | Two days after due date                             |
-| TA sessions following up on SA  | ~Two days after release of feedback                 |
+|                                 | (Beginning of last week of class)         |
+| Return feedback on SA           | One day after due date                             |
+| TA sessions following up on SA  | ~one days after release of feedback                 |
 | LA due                          | Last day of class                                   | 
