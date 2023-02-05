@@ -33,3 +33,14 @@ By completing this term project, you will:
     - Students comment on an initial plot and calculate if the initial parameters are within normal limits.
     - Students write code to perform an Euler’s method estimate of the model ODEs and then use the least-squares method to optimize one parameter of the model for a provided set of data.
     - Students are asked to plot the data and the estimate and also evaluate if the patient’s parameters are within the normal ranges.
+
+## Implementation Calendar
+
+| Item                            | Schedule                                            |
+| MATLAB publishing tutorial      | Earlier in term                                     |
+| Release Short Assignment (SA)   | At least one week before release of long assignment |
+| Release Long Assignment  (LA)   | Due date of Short Assignment                        |
+|                                 | (Beginning of second to last week of class)         |
+| Return feedback on SA           | Two days after due date                             |
+| TA sessions following up on SA  | ~Two days after release of feedback                 |
+| LA due                          | Last day of class                                   | 
