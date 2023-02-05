@@ -37,6 +37,7 @@ By completing this term project, you will:
 ## Implementation Calendar
 
 | Item                            | Schedule                                            |
+|:---:|:---:|
 | MATLAB publishing tutorial      | Earlier in term                                     |
 | Release Short Assignment (SA)   | At least one week before release of long assignment |
 | Release Long Assignment  (LA)   | Due date of Short Assignment                        |
