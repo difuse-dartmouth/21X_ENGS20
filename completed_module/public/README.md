@@ -77,4 +77,4 @@ Typically the short assignment is due after three days and the long assignment i
   </tr>
     
 </table>
-<img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/8de2632bb4baf111b7b880f8a837bcc7f0b08733/completed_module/public/ENGS%2020%20timeline.png" width="300" style = "float: right">
+<img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/110922f65be828f0aa09fad4c9fd2fafa4787cf8/completed_module/public/ENGS%2020%20timeline.png" width="300" style = "float: right">
