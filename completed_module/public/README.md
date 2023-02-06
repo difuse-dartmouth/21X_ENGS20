@@ -48,4 +48,4 @@ Typically the short assignment is due after three days and the long assignment i
 | TA sessions following up on SA  | ~one days after release of feedback                 |
 | LA due                          | Last day of class                                   | 
 
-<img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/e016e155ac526daf0aca9e027e59a8f46de7227c/completed_module/public/ENGS%2020%20timeline.png" width="100" style = "float: right">
+<img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/e016e155ac526daf0aca9e027e59a8f46de7227c/completed_module/public/ENGS%2020%20timeline.png" width="200" style = "float: right">
