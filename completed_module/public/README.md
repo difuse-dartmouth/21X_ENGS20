@@ -38,30 +38,43 @@ By completing this term project, you will:
 
 Typically the short assignment is due after three days and the long assignment is due after a week.
 
-| Item                            | Schedule                                            |
-|---|---|
-| MATLAB publishing tutorial      | Earlier in term                                     |
-| Release Short Assignment (SA)   | At least three days before release of long assignment |
-| Release Long Assignment  (LA)   | Due date of Short Assignment                        |
-|                                 | (Beginning of last week of class)         |
-| Return feedback on SA           | One day after due date                             |
-| TA sessions following up on SA  | ~one days after release of feedback                 |
-| LA due                          | Last day of class                                   | 
+
 <table align="left">
+    <br><br>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Item</th>
+    <th>Schedule</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>MATLAB publishing tutorial</td>
+    <td>Earlier in term</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Release Short Assignment (SA)</td>
+    <td>At least three days before release of long assignment</td>
+    
   </tr>
+    <tr>
+    <td>Release Long Assignment (LA)</td>
+    <td> Due date of SA, 1 week before due date of LA </td>
+    
+  </tr> 
+    <tr>
+    <td>Return feedback on SA   </td>
+    <td> One day after due date of SA </td>
+    
+  </tr>
+     <tr>
+    <td>TA sessions following up on SA</td>
+    <td> One day after release of SA feedback </td>
+    
+  </tr>
+     </tr>
+     <tr>
+    <td>Long Assignment due</td>
+    <td> One week after LA release </td>
+    
+  </tr>
+    
 </table>
-<img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/e016e155ac526daf0aca9e027e59a8f46de7227c/completed_module/public/ENGS%2020%20timeline.png" width="200" style = "float: right">
+<img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/8de2632bb4baf111b7b880f8a837bcc7f0b08733/completed_module/public/ENGS%2020%20timeline.png" width="300" style = "float: right">
