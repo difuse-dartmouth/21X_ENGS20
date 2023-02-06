@@ -4,7 +4,7 @@ This folder contains all the components of the data science module for Dartmouth
 
 ## Primary Objective
 
-The final “long” coding assignment for ENGS 20 had consistently been an investigation of the solutions to ordinary differential equations (ODEs) through the use of Euler’s method, analytical solutions, and ODE solvers in Matlab. However, Professor Bonfert-Taylor recognized that this assignment often lacked the context of a real-world application when only the ODEs were provided for students to solve through various methods. She was interested in finding an ODE or a system of ODEs describing a real interaction that could be modeled by students along with data to provide inputs for and then validate the model.
+The final “long” coding assignment for ENGS 20 had consistently been an investigation of the solutions to ordinary differential equations (ODEs) through the use of Euler’s method, analytical solutions, and ODE solvers in MATLAB. However, Professor Bonfert-Taylor recognized that this assignment often lacked the context of a real-world application when only the ODEs were provided for students to solve through various methods. She was interested in finding an ODE or a system of ODEs describing a real interaction that could be modeled by students along with data to provide inputs for and then validate the model.
 
 She found resources from papers investigating the response of the human insulin system to glucose and proposed that the DIFUSE team develop a new long assignment in which students apply an ODE model of this system. She also proposed a shorter coding assignment to be completed before the long assignment that introduces students to the concepts of ODEs and Euler’s method.
 
