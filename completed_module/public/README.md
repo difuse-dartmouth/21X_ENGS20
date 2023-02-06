@@ -47,5 +47,21 @@ Typically the short assignment is due after three days and the long assignment i
 | Return feedback on SA           | One day after due date                             |
 | TA sessions following up on SA  | ~one days after release of feedback                 |
 | LA due                          | Last day of class                                   | 
-
+<table align="left">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 <img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/e016e155ac526daf0aca9e027e59a8f46de7227c/completed_module/public/ENGS%2020%20timeline.png" width="200" style = "float: right">
