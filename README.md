@@ -17,6 +17,7 @@ For instructors and interested parties, the history of this repository (with det
 The folder *completed_module* contains all of the module components.  
 
 The *components* subfolder contains two subfolders, one containing a short assignment to be completed by students as a way to introduce the topic and a second containing a more involved long assignment that accomplishes the module objectives.
+
 The *data* subfolder contains a csv file with all the published data for the module as well as single text files with only the insulin and glucose data.
 
 The *logistics* folder contains the instructor guide for the module.
