@@ -4,7 +4,7 @@
 
 ## Project Team: Petra Bonfert-Taylor (Professor of Engineering, DIFUSE PI), Laura Ray(Professor of Engineering, DIFUSE PI), Jackeline Corona (‘22),  Logan Sankey (‘20), Taylor Hickey ('23)
 
-This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
+The DIFUSE project at Dartmouth College developed this modele with funding from National Science Foundation award IUSE-1917002.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
