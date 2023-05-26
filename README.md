@@ -10,8 +10,6 @@ This module was developed through the DIFUSE project at Dartmouth College and fu
 | <a href="https://github.com/difuse-dartmouth/ engineering-glucose-model-ode/archive/refs/heads/main.zip"><img src="/repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
-
-# Module Overview
 ## Module Objective 
 Student gain experience with using a numerical solver for a differential equations model coupled with parameter estimation based on a experimental data set.
 
@@ -35,10 +33,62 @@ The module uses MATLAB live scripts.
 ## Schedule and Links
 
 Use this page to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
+[Guide for Instructors](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/logistics/Instructor%E2%80%99s%20Guide.pdf)
 
-| Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
-|------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Week 1 | In class          |Introduction to modules, variables, techniques, and colab| | [Introductory materials](completed_module/components/assignment0/README.md) |
+1. [Short Assignment](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/components/short%20assignment/short_assignment_student_instructions.pdf)
+    - Three questions introduce the student to ODEs in MATLAB.
+    - Students develop code to estimate a solution to an ODE with Euler’s method. Students then plot the solution for different coefficient values and plot the estimate against the analytical solution.
+    - Assignment questions ask students to compare the effects of changing variables in the ODE and compare the estimated solution to the analytical solution.
+2. [Long Assignment](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/components/long%20assignment/Long%20Assignment%20(Glucose-Insulin%20through%20Diff%20Equations).pdf) ([Student facing rubric](https://github.com/difuse-dartmouth/21X_ENGS20/blob/6e9df446b205300b61e5de6e0a6af273df913e05/completed_module/public/components/long%20assignment/Student%20Facing%20LA3%20Rubric.pdf))
+    - Students model the Glucose Insulin System in MATLAB with Euler’s Method and explore the model by optimizing one parameter for a given set of data using the least-squares method.
+    - Students comment on an initial plot and calculate if the initial parameters are within normal limits.
+    - Students write code to perform an Euler’s method estimate of the model ODEs and then use the least-squares method to optimize one parameter of the model for a provided set of data.
+    - Students are asked to plot the data and the estimate and also evaluate if the patient’s parameters are within the normal ranges.
+
+## Implementation Calendar
+
+Typically the short assignment is due three days after it's been assigned and the long assignment is due after a week.
+
+
+<table align="left">
+    <br><br>
+  <tr>
+    <th>Item</th>
+    <th>Schedule</th>
+  </tr>
+  <tr>
+    <td>MATLAB publishing tutorial</td>
+    <td>Earlier in term</td>
+  </tr>
+  <tr>
+    <td>Release Short Assignment (SA)</td>
+    <td>At least three days before release of long assignment</td>
+    
+  </tr>
+    <tr>
+    <td>Release Long Assignment (LA)</td>
+    <td> Due date of SA, 1 week before due date of LA </td>
+    
+  </tr> 
+    <tr>
+    <td>Return feedback on SA   </td>
+    <td> One day after due date of SA </td>
+    
+  </tr>
+     <tr>
+    <td>TA sessions following up on SA</td>
+    <td> One day after release of SA feedback </td>
+    
+  </tr>
+     </tr>
+     <tr>
+    <td>Long Assignment due</td>
+    <td> One week after LA release </td>
+    
+  </tr>
+    
+</table>
+<img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/110922f65be828f0aa09fad4c9fd2fafa4787cf8/completed_module/public/ENGS%2020%20timeline.png" width="300" style = "float: right">
 
 ## Course Information
 
