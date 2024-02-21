@@ -98,6 +98,6 @@ This module was developed for an Engineering course, <a href="http://dartmouth.s
 | <a href="https://github.com/difuse-dartmouth/engineering-glucose-model-ode/archive/refs/heads/main.zip"><img src="/repository_assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
-For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/ engineering-glucose-model-ode/commits/main/).
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/engineering-glucose-model-ode/commits/main/).
 
 
